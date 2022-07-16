@@ -1,5 +1,5 @@
-Second file text
+Second file text for example.
 
-Changes made in the main branch
+Changes made in the New-branch branch
 
-Changes made in the New-branch branch.
+
