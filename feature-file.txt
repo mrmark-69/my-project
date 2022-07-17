@@ -1,1 +1,1 @@
-Some text file
+Changed tex for making commit number 1.
