@@ -3,5 +3,3 @@ third file text
 Also changed in the main branch
 
 Also changed in the New-branch branch.
-
-Add new string in this file.
